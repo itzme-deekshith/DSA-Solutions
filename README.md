@@ -17,5 +17,7 @@ Each folder contains DSA problems categorized by topic
 
 ## **💡 Contribute & Improve**
 Found a better approach? Feel free to open a pull request!
+
 Have a suggestion? Create an issue.
+
 Let's collaborate and optimize solutions together. 🚀
