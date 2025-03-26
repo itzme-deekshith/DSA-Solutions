@@ -1,7 +1,7 @@
 # **DSA Solutions 🚀**  
 
 Welcome to my **Data Structures & Algorithms** repository!  
-Here, I upload solutions to various DSA problems. The goal is to improve problem-solving skills, optimize solutions, and get feedback from the community.  
+This repository contains my solutions to various **LeetCode** problems. I solve these problems in Python and continuously improve my approaches. Open to feedback and better ideas!  
 
 ## **📌 Repository Structure**  
 Each folder contains DSA problems categorized by topic
